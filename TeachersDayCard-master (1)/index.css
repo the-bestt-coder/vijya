@@ -1,0 +1,74 @@
+html{
+    background-image: url("https://th.bing.com/th/id/R.20b2d4c7dbbb3742b32e52ce6b5f2e76?rik=hQ6Hx1eTqm%2b%2bTg&riu=http%3a%2f%2fwallpapersdsc.net%2fwp-content%2fuploads%2f2017%2f11%2fArts-And-Crafts-Beautiful.jpeg&ehk=AGTW1ZVgP9B5eXXcZIhUaN5IR9mNKPWn9j2h7d%2bstCM%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+}
+
+#head {
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    border: 2px solid red;
+  border-radius: 5px;
+}
+
+p.big {
+    line-height: 1;
+    text-align: center;
+    
+  }
+  #h3 {
+    font-size: 120px; 
+    background-image: linear-gradient(to right, violet, indigo, green, blue, yellow, orange, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+  }
+  #h2 {
+      font-size: 130px;
+      background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+  }
+  #h1 {
+    font-size: 180px;
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+}
+#h{
+    margin: 0px;
+    font-size: 50px;
+    background-color: yellow;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+button {
+    position: fixed;
+    right: 25px;
+    bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(0, 183, 255);
+    color: white;
+}
+
+button:hover {
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 17px;
+    padding-bottom: 17px;  
+}
